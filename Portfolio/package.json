@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://keplej.github.io",
+  "homepage": "https://keplej.github.io/Keplej.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
