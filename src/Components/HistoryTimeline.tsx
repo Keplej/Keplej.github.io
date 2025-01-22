@@ -30,7 +30,7 @@ function HistoryTimeline() {
                             {about.year}
                         </TimelineOppositeContent>
                         <TimelineSeparator>
-                            <TimelineDot color={about.color}>
+                            <TimelineDot sx={{ bgcolor: about.color }}>
                             </TimelineDot>
                             <TimelineConnector/>
                         </TimelineSeparator>
