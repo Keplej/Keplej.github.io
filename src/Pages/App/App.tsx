@@ -2,11 +2,11 @@
 import { BrowserRouter} from 'react-router-dom'
 
 import Home from '../Home/Home'
-// import About from '../About/About'
+import About from '../About/About'
 import {Box, createTheme, CssBaseline} from "@mui/material";
 import {ThemeProvider} from "@emotion/react";
 import Nav from "../../Components/Nav";
-// import Projects from "../Projects/Projects.tsx";
+import Projects from "../Projects/Projects.tsx";
 // import Contact from "../Contact/Contact.tsx";
 
 const drawerWidth = 240;
@@ -41,11 +41,11 @@ function App() {
                         </section>
 
                         <section id="about" style={{height: '200vh'}}>
-                            {/* <About/> */}
+                            <About/>
                         </section>
 
                         <section id="projects" style={{height: '200vh'}}>
-                            {/* <Projects/> */}
+                            <Projects/>
                         </section>
 
                         <section id="contact" style={{height: '200vh'}}>
