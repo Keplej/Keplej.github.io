@@ -1,0 +1,5 @@
+[
+    {"id": 1, "project_name": "Python Project", "description": "Hello this is a quick overview of Python Project", "image": "/Python_image.png"},
+    {"id": 2, "project_name": "React Project", "description": "This react project is super fun!", "image": "/react.png"},
+    {"id": 3, "project_name": "Svelte/Deno Project", "description": "Deno and Svelte is something I want to use more!", "image": "/Deno_Logo_2024.png"}
+]

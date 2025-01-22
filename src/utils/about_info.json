@@ -1,0 +1,5 @@
+[
+    {"id": 1, "year": "2025 - Current", "title": "NDMP", "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.", "color": "primary"},
+    {"id": 2, "year": "2021 - 2024", "title": "F3 Wireless", "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment", "color": "error"},
+    {"id": 3, "year": "2021 - 2021", "title": "Prime Digital Academy", "description": "Prime Digital Academy offers intensive, 20-week and 28-week full-stack coding bootcamps and a 14-week UX design bootcamp with programs available online and on campus in Minneapolis, Minnesota.", "color": "success"}
+]

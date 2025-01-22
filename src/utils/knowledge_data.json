@@ -1,0 +1,20 @@
+[
+    {"id": 1, "type": "Frameworks", "name": "React", "image": "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"},
+    {"id": 2, "type": "Languages", "name": "Python", "image": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"},
+    {"id": 3, "type": "Languages", "name": "JavaScript", "image": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"},
+    {"id": 4, "type": "Frameworks", "name": "Node.js", "image": "https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"},
+    {"id": 5, "type": "Frameworks", "name": "JQuery", "image": "https://img.icons8.com/?size=100&id=zh7me4lnKerp&format=png&color=000000"},
+    {"id": 6, "type": "Frameworks", "name": "Express.js", "image": "https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000"},
+    {"id": 7, "type": "Frameworks", "name": "Flask", "image": "https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000"},
+    {"id": 8, "type": "Testing", "name": "Pytest", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18M1yPSLd5dvjC6BhTzqkEO2oIuPOaU5yeQ&s"},
+    {"id": 9, "type": "Testing", "name": "Selenium", "image": "https://img.icons8.com/?size=100&id=TLI9oiMzpREF&format=png&color=000000"},
+    {"id": 10, "type": "Testing", "name": "Playwright", "image": "https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg"},
+    {"id": 11, "type": "Network & Communications", "name": "Sockets", "image": "https://img.icons8.com/?size=100&id=CEKH5DHUoRbB&format=png&color=000000"},
+    {"id": 12, "type": "Testing", "name": "Jest", "image": "https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000"},
+    {"id": 13, "type": "Network & Communications", "name": "MQTT", "image": "https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8eafc36d74023fb1fadcc2e82d353189071f2dd/svg/mqtt-icon-solid.svg"},
+    {"id": 14, "type": "Cloud & Databases", "name": "AWS", "image": "https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"},
+    {"id": 15, "type": "Cloud & Databases", "name": "Google Cloud", "image": "https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000"},
+    {"id": 16, "type": "Cloud & Databases", "name": "PostgresQL", "image": "https://img.icons8.com/?size=100&id=38561&format=png&color=000000"},
+    {"id": 16, "type": "Cloud & Databases", "name": "MySQL", "image": "https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000"}
+]
+  
