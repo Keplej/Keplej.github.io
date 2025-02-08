@@ -36,19 +36,19 @@ function App() {
 
                         }}
                     >
-                        <section id="home" style={{height: '200vh'}}>
+                        <section id="home" style={{minHeight: '100vh', paddingBottom: '2rem'}}>
                             <Home/>
                         </section>
 
-                        <section id="about" style={{height: '200vh'}}>
+                        <section id="about" style={{minHeight: '100vh', paddingBottom: '2rem'}}>
                             <About/>
                         </section>
 
-                        <section id="projects" style={{height: '200vh'}}>
+                        <section id="projects" style={{minHeight: '100vh', paddingBottom: '2rem'}}>
                             <Projects/>
                         </section>
 
-                        <section id="contact" style={{height: '200vh'}}>
+                        <section id="contact" style={{minHeight: '100vh', paddingBottom: '2rem'}}>
                             {/* <Contact/> */}
                         </section>
                     </Box>
